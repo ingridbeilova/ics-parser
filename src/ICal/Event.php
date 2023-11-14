@@ -81,7 +81,7 @@ class Event
     /**
      * https://www.kanzaki.com/docs/ical/description.html
      *
-     * @var string
+     * @var string|null
      */
     public $description;
 
